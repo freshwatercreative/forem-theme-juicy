@@ -1,9 +1,9 @@
 require 'forem'
 module Forem
   module Theme
-    module Base
+    module Juicy
       class Engine < Rails::Engine
-        Forem.theme = :base
+        Forem.theme = :juicy
       end
     end
   end
