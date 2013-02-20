@@ -3,14 +3,14 @@ $:.push File.expand_path("../lib", __FILE__)
 require "forem-theme-juicy/version"
 
 Gem::Specification.new do |s|
-  s.name        = "forem-theme-base"
+  s.name        = "forem-theme-juicy"
   s.version     = Forem::Theme::Juicy::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["James Martens"]
   s.email       = ["james.martens@freshwatercreative.ca"]
   s.homepage    = ""
-  s.summary     = %q{Theme base for forem.}
-  s.description = %q{Theme base for forem.}
+  s.summary     = %q{Theme juicy for forem.}
+  s.description = %q{Theme juicy for forem.}
 
   s.rubyforge_project = "forem-theme-juicy"
 
